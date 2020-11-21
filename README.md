@@ -1,8 +1,5 @@
-# Kolkulator
-multiplatform CLI calculator written in .NET Core 2.2
+# Kolkulator3PY
+multiplatform CLI calculator written in <s>.NET Core 2.2</s> Python3
 
 to run my builds you need:<br>
-win10-x64, osx.10.14-x64, ubuntu 18.04-x64<br>
-latest .NET Core 2.2 runtime: <a href="https://dotnet.microsoft.com/download">https://dotnet.microsoft.com/download</a>
-
-for other platforms you can build it for your self
+<s>win10-x64, osx.10.14-x64, ubuntu 18.04-x64<br></s> Anything that runs python and dependecies, Win, Lin, Mac, BSD, HaikuOS, Android
