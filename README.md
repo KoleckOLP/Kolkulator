@@ -1,3 +1,10 @@
+This repo had a problem and I chose to split Kolkulator into languages:
+
+QBasic: https://github.com/KoleckOLP/KolkulatorQB <br>
+C# .Net Core: https://github.com/KoleckOLP/KolkulatorCS <br>
+Python 3: https://github.com/KoleckOLP/Kolkulator3PY <br>
+
+
 # Kolkulator3PY
 multiplatform CLI calculator written in <s>.NET Core 2.2</s> Python3
 
